@@ -6,7 +6,7 @@ Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu 
 5,Alchemist,Copenhagen,Denmark,Europe,570,895,55.69396963,12.61387538,2,Innovative,1
 6,Maido,Lima,Peru,South America,150,236,-12.12541634,-77.0305759,,,
 7,Lido 84,Gardone Riviera,Italy,Europe,100,157,45.62515961,10.57556658,1,Creative,
-8,Atomix,New York,United States,North America,205,322,40.74429238,-73.98280692,2,"Korean,Contemporary",
+8,Atomix,New York,United States of America,North America,205,322,40.74429238,-73.98280692,2,"Korean,Contemporary",
 9,Quintonil,Mexico City,Mexico,North America,120,188,19.43089995,-99.1917555,,,
 10,Table by Bruno Verjus,Paris,France,Europe,125,196,48.84880067,2.37585866,2,Modern Cuisine,1
 11,Tresind Studio,Dubai,United Arab Emirates,Asia,135,212,25.11423765,55.13961768,2,Indian,
@@ -42,7 +42,7 @@ Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu 
 41,Le Calandre,Rubano,Italy,Europe,255,400,45.42174517,11.80963323,3,Creative,
 42,Piazza Duomo,Alba,Italy,Europe,295,463,44.70061895,8.035795206,3,"Creative, Seasonal Cuisine",1
 43,Leo,Bogota,Colombia,South America,100,157,4.648081245,-74.05645237,,,
-44,Le Bernardin,New York,United States,North America,190,298,40.76142528,-73.98175769,3,Seafood,
+44,Le Bernardin,New York,United States of America,North America,190,298,40.76142528,-73.98175769,3,Seafood,
 45,Nobelhart & Schmutzig,Berlin,Germany,Europe,105,165,52.50533938,13.39041479,1,"Creative, Regional Cuisine",1
 46,Orfali Bros Bistro,Dubai,United Arab Emirates,Asia,50,79,25.21866189,55.26127526,,Contemporary,
 47,Mayta,Lima,Peru,South America,41,64,-12.10988276,-77.04920184,,,
@@ -59,19 +59,19 @@ Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu 
 58,Lasai,Rio de Janeiro,Brazil,South America,100,157,-22.95330361,-43.19631178,1,Modern Cuisine,
 59,Merito,Lima,Peru,South America,35,55,-12.15050095,-77.02075104,,,
 60,La Cime,Osaka,Japan,Asia,80,126,34.68582014,135.5034283,2,French,
-61,Chef's Table at Brooklyn Fare,New York,United States,North America,360,565,40.75611963,-73.99659226,1,Latin American,
+61,Chef's Table at Brooklyn Fare,New York,United States of America,North America,360,565,40.75611963,-73.99659226,1,Latin American,
 62,Arpege,Paris,France,Europe,195,306,48.85575722,2.317029419,3,Creative,1
 63,Neolokal,Istanbul,Turkey,Asia,30,47,41.02383568,28.97340105,1,"Turkish, Modern Cuisine",1
 64,Aponiente,El Puerto de Santa Maria,Spain,Europe,220,345,36.6032583,-6.216533767,3,"Creative, Innovative",1
 65,Burnt Ends,Singapore,Singapore,Asia,110,173,1.304609335,103.8089917,1,Barbecue,
 66,Turk Fatih Tutak,Istanbul,Turkey,Asia,118,185,41.05834348,28.97776641,2,"Turkish, Modern Cuisine",
 67,Le Clarence,Paris,France,Europe,380,597,48.86743612,2.309773204,2,"Creative, Modern Cuisine",
-68,SingleThread,Healdsburg,United States,North America,330,518,38.61230421,-122.8697041,3,"Contemporary, Californian",1
+68,SingleThread,Healdsburg,United States of America,North America,330,518,38.61230421,-122.8697041,3,"Contemporary, Californian",1
 69,Zen,Singapore,Singapore,Asia,330,518,1.279480109,103.8403838,3,European Contemporary,
 70,Sud 777,Mexico City,Mexico,North America,80,126,19.30908349,-99.20930351,,,
 71,Core by Clare Smyth,London,United Kingdom,Europe,160,251,51.5127732,-0.20313514,3,Modern British,
 72,Suhring,Bangkok,Thailand,Asia,110,173,13.7108196,100.5454876,2,European Contemporary,
-73,Cosme,New York,United States,North America,100,157,40.73959784,-73.98835571,1,"Mexican, Regional Cuisine",
+73,Cosme,New York,United States of America,North America,100,157,40.73959784,-73.98835571,1,"Mexican, Regional Cuisine",
 74,Nusara,Bangkok,Thailand,Asia,60,94,13.74570286,100.4915279,,Thai,
 75,Fyn,Cape Town,South Africa,Africa,35,55,-33.9247149,18.42179019,,,
 76,Oteque,Rio de Janeiro,Brazil,South America,120,188,-22.9574722,-43.19438394,2,Modern Cuisine,
