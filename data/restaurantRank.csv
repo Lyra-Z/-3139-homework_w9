@@ -96,6 +96,6 @@ Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu 
 95,Ceto,Roquebrune-Cap-Martin,France,Europe,170,267,43.75681976,7.444427638,1,"Seafood, Mediterranean Cuisine",
 96,Ricard Camarena Restaurant,Valencia,Spain,Europe,75,118,39.48525999,-0.385215685,2,Creative,1
 97,Labyrinth,Singapore,Singapore,Asia,78,122,1.289750073,103.8562971,1,"Innovative, Singaporean",
-98,Saison,San Francisco,United States,North America,288,452,37.77952337,-122.3922696,2,"Contemporary, Californian",
+98,Saison,San Francisco,United States of America,North America,288,452,37.77952337,-122.3922696,2,"Contemporary, Californian",
 99,Fu He Hui,Shanghai,China,Asia,80,126,31.21866282,121.4296824,1,Vegetarian,
 100,Maito,Panama City,Panama,North America,70,110,8.994377186,-79.49800486,,"Contemporary,Panamanian",
